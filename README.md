@@ -81,4 +81,23 @@ Disponibilizado pela empresa, um conjunto de dados que teve como foco criar aná
 
 - [SQlite](https://www.sqlite.org/)
 
+## Visualização do Projeto em Power BI 
 
+** Instrução para a visualização do Projeto. 
+
+ ```bash
+
+  ## 1 - Clique no arquivo Auto_Sports.pbix
+  ## 2 - Vai aparecer um link chamado View raw, aperte nele e abra o projeto no Power BI Desktop
+
+  Obs: O Power BI só vai funcionar somente na versões Windows 7, 8, 8.1, 10 ou 11
+
+```
+## Visualização do Projeto em Python 
+
+ ```bash
+
+  ## 1 - Clique no arquivo Auto_Sports_Banco.ipynb e no outro chamado Auto_Sports.ipynb
+  ## 2 - Já vai aparecer pronto o formato da Ide Python - Jupyter Notebook para a visualização do código 
+
+```
